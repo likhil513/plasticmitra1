@@ -1,0 +1,8 @@
+{
+  "appId": "com.plasticmitra.app",
+  "appName": "Plastic Mitra",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
